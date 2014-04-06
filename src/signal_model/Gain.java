@@ -1,13 +1,5 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-package signal.flow.graph;
+package signal_model;
 
-/**
- *
- * @author omar
- */
 public class Gain {
     /*
      * true positive gain
